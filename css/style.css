@@ -1,0 +1,26 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.grayscale-img {
+  filter: grayscale(100%);
+}
+.client-section img {
+  width: 189px;
+  height: 189px;
+  object-fit: cover;
+}
+
+.client-section svg {
+  width: 22px;
+}
+
+.dark-green {
+  background-color: #264653;
+}
+
+.theme-color {
+  color: #e76f51;
+}
+.theme-bg-color {
+  background-color: #e76f51;
+}
